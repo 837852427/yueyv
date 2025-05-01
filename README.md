@@ -1,6 +1,6 @@
 # PGATA: Phonology-Glyph-Aware Token Aggregation Framework
 
-![img](file:///C:\Users\zsh\AppData\Local\Temp\05dd7acc-2520-488e-833d-c81ccc59ad86.png)
+![img](./PGATA%20Framework.png)
 
 The PGATA framework integrates semantic, phonological, and glyph-level representations through hierarchical embedding modules, followed by feature fusion, residual enhancement, and LoRA-based fine-tuning. It supports context-aware modeling for downstream tasks such as sarcasm detection and intent classification.
 
